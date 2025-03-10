@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "13700689013",
+    "firebase_url": "https://practice123compose-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "practice123compose",
+    "storage_bucket": "practice123compose.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13700689013:android:fbab405f6671480e4d9c3c",
+        "android_client_info": {
+          "package_name": "com.etherofgodd.appcomposetutorial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcffRBoFchAQxuspobSWC883U5bgtoNVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13700689013:android:45f099c9080e57f84d9c3c",
+        "android_client_info": {
+          "package_name": "com.example.basicfirebaseauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcffRBoFchAQxuspobSWC883U5bgtoNVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
