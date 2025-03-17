@@ -42,8 +42,11 @@ fun SignUpPage(
                 context, (authState.value as AuthState.Error).message,
                 Toast.LENGTH_LONG
             ).show()
-            AuthState.LOADING -> TODO()
-            AuthState.UNAuthenticated -> TODO()
+            AuthState.LOADING -> {
+                Toast.makeText(context, "Loading", Toast.LENGTH_LONG).show()
+            }
+
+            AuthState.UNAuthenticated -> {}
         }
     }
 
